@@ -36,6 +36,6 @@ I am a researcher working at the intersection of quantum computing hardware and 
 ---
 
 ##  Connect with Me
- **LinkedIn:** [linkedin.com/in/moeid-jamalzadeh](https://linkedin.com/in/moeid-jamalzadeh)  **Google Scholar:** [Moeid Jamalzadeh](https://scholar.google.com) *  **Institution Profile:** [NYU Tandon School of Engineering]([https://engineering.nyu.edu](https://engineering.nyu.edu/student/moeid-jamalzadeh))
- **Email:** Moeid@nyu.edu
+* **LinkedIn:** [linkedin.com/in/moeid-jamalzadeh](https://linkedin.com/in/moeid-jamalzadeh)  **Google Scholar:** [Moeid Jamalzadeh](https://scholar.google.com) *  **Institution Profile:** [NYU Tandon School of Engineering]([https://engineering.nyu.edu](https://engineering.nyu.edu/student/moeid-jamalzadeh))
+* **Email:** Moeid@nyu.edu
 
