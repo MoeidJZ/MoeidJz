@@ -39,8 +39,3 @@ I am a researcher working at the intersection of quantum computing hardware and 
 * 💼 **LinkedIn:** [linkedin.com/in/moeid-jamalzadeh](https://linkedin.com/in/moeid-jamalzadeh) * 🎓 **Google Scholar:** [Moeid Jamalzadeh](https://scholar.google.com) * 🏫 **Institution Profile:** [NYU Tandon School of Engineering](https://engineering.nyu.edu)
 * ✉️ **Email:** Moeid@nyu.edu
 
----
-
-### 📊 GitHub Stats
-![Moeid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoeidJZ&show_icons=true&theme=nord&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeidJZ&layout=compact&theme=nord)
