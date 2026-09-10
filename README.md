@@ -9,7 +9,7 @@ I am a researcher working at the intersection of quantum computing hardware and 
 
 -  **Ph.D. Candidate in Electrical Engineering** | New York University (Expected Dec 2026)
 -  **Graduate Research Assistant** | NYU Nanolab (Advised by Prof. Davood Shahrjerdi)
--  **Current Quantum Device Designer Intern** | Nokia Bell Labs (Summer 2026)
+-  **Quantum Device Designer Intern** | Nokia Bell Labs (Summer 2026)
 -  **B.S. in Electrical Engineering** | Sharif University of Technology 
 
 ---
